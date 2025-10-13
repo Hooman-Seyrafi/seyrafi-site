@@ -831,6 +831,12 @@ span#main {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+.port-img2{
+  margin-top: 12px !important;
+}
+.certificate-text{
+  font-size: 38px;
+}
 .single-portfolio .port-img {
   opacity: 1;
   visibility: visible;
