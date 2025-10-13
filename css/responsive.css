@@ -24,7 +24,7 @@
 }
 
 /* XL Device :1920px. */
-@media screen and (min-width: 1200px) and (max-width: 1600px) {
+@media screen and (min-width: 1200px) {
   .slider-content h1 {
     font-size: 90px;
   }
@@ -2224,3 +2224,4 @@
     padding: 0 30px;
   }
 }
+
