@@ -1915,6 +1915,11 @@
     margin-top: 10px;
     margin-bottom: 25px;
   }
+  .certificate-text{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
   .blog-wrapper.blog-active {
     margin-top: 10px;
   }
@@ -2224,4 +2229,3 @@
     padding: 0 30px;
   }
 }
-
