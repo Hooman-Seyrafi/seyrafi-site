@@ -709,7 +709,6 @@ span#main {
   position: absolute;
   content: "";
   background: #ffffff;
-  background-image: url(../images/about/about-img-shape.jpg);
   width: 65px;
   height: 65px;
   right: -9%;
